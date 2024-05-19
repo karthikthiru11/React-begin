@@ -1,6 +1,6 @@
 
 const heading= React.createElement("h1",{
   id:"heading1"
-},"Hello");
+},"Hello Karthik");
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(heading);
